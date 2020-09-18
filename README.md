@@ -1,6 +1,11 @@
 # ue4_simple_cube_and_mvmnt
 ## Developed with macOS in mind
 ## 0.0 https://docs.unrealengine.com/en-US/Programming/QuickStart/index.html
+## links
+- https://docs.unrealengine.com/en-US/Programming/UnrealArchitecture/Reference/Classes/Specifiers/index.html
+- https://docs.unrealengine.com/en-US/Programming/UnrealArchitecture/Reference/Properties/Specifiers/index.html
+- https://docs.unrealengine.com/en-US/Programming/UnrealArchitecture/Reference/Functions/Specifiers/index.html
+- https://docs.unrealengine.com/en-US/Programming/UnrealArchitecture/Reference/Structs/Specifiers/index.html
 
 # Setup
 - Install Git-LFS (https://git-lfs.github.com)
